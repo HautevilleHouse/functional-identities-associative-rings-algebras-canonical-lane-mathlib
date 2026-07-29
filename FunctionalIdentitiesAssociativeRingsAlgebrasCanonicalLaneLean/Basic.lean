@@ -1,0 +1,2 @@
+import FunctionalIdentitiesAssociativeRingsAlgebrasCanonicalLaneLean.GateLemmas
+import FunctionalIdentitiesAssociativeRingsAlgebrasCanonicalLaneLean.FinalTheorem
